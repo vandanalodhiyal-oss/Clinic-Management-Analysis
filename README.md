@@ -31,19 +31,19 @@
 * Consolidated Logs: Seamlessly binds unique identifiers like Patient ID, Age, Disease, Assigned Doctor, and individual billing.
 ##  Complete Dashboard Interface (All Pages in Order)
 
-###  Page 1: Operations Overview
+###  Page 1: Overview
 ![Overview Page](Overview.png.jpeg)
 
-###  Page 2: Clinical Performance
+###  Page 2: Doctor Performance
 ![Performance Page](Performance.png.jpeg)
 
-###  Page 3: Disease Distribution
+###  Page 3: Disease Analysis
 ![Disease Page](Disease.png.jpeg)
 
 ###  Page 4: Financial Analytics
 ![Finance Page](Finance.png.jpeg)
 
-###  Page 5: Patient Details
+###  Page 5: Patient Ledger
 ![Patient Page](Patient.png.jpeg)
 
 

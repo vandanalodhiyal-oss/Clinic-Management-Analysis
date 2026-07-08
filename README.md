@@ -41,7 +41,7 @@
 ![Disease Page](Disease.png.jpeg)
 
 ###  Page 4: Financial Analytics
-![Finance Page](Finance.png.jpeg)
+![Finance Page](Financial.png.jpeg)
 
 ###  Page 5: Patient Ledger
 ![Patient Page](Patient.png.jpeg)
